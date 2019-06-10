@@ -1,27 +1,29 @@
 {
-    "attachments": [
+  "attachments": [
+    {
+      "fallback": "Selenium Decision Support System: Check the below image for detailed system",
+      "title": "Selenium DSS",
+      "title_link": "",
+      "text": "Check the below image for detailed system",
+      "color": "#764FA5",
+
+    "images": [
         {
-            "fallback": "Required plain-text summary of the attachment.",
-            "color": "#36a64f",
-            "pretext": "Optional text that appears above the attachment block",
-            "author_name": "Bobby Tables",
-            "author_link": "http://flickr.com/bobby/",
-            "author_icon": "http://flickr.com/icons/bobby.jpg",
-            "title": "Slack API Documentation",
-            "title_link": "https://api.slack.com/",
-            "text": "Optional text that appears within the attachment",
-            "fields": [
-                {
-                    "title": "Priority",
-                    "value": "High",
-                    "short": false
-                }
-            ],
-            "image_url": "https://d33v4339jhl8k0.cloudfront.net/docs/assets/58811165dd8c8e484b24f36e/images/589ef8562c7d3a784630d046/file-DIDhX7HflH.png",
-            "thumb_url": "http://example.com/path/to/thumb.png",
-            "footer": "Slack API",
-            "footer_icon": "https://platform.slack-edge.com/img/default_application_icon.png",
-            "ts": 123456789
+            "imageID": "Selenium DSS 1",
+            "urls": [
+                "https://i.postimg.cc/rmC8bDmH/Selenium-DSS-1.png",
+                "https://i.postimg.cc/x1jCMy64/Selenium-DSS-2.png"
+            ]
         }
-    ]
+    ],
+        
+      "fields": [
+        {
+          "title": "Analysis",
+          "value": "Custom Text",
+          "short": false
+        }
+      ]
+    }
+  ]
 }

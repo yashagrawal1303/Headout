@@ -1,11 +1,11 @@
 {
     "attachments": [
         {
-            "fallback": "Network traffic (kb/s): How does this look? @slack-ops - Sent by Julie Dodd - https://datadog.com/path/to/event",
-            "title": "Network traffic (kb/s)",
-            "title_link": "https://datadog.com/path/to/event",
-            "text": "How does this look? @slack-ops - Sent by Julie Dodd",
-            "image_url": "https://datadoghq.com/snapshot/path/to/snapshot.png",
+            "fallback": "Selenium_Test: Check the below mentioned image,
+            "title": "Selenium DSS",
+            "title_link": "https://drive.google.com/open?id=1BM6NdWaTPCPLc-j8gu2P2WDxE8oppuHx",
+            "text": "Check the below mentioned image",
+            "image_url": "https://drive.google.com/open?id=1BM6NdWaTPCPLc-j8gu2P2WDxE8oppuHx",
             "color": "#764FA5"
         }
     ]

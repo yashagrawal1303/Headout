@@ -1,29 +1,20 @@
 {
+  "text": "*Message Template :* \n *URGENT* - Selenium is failing. Please find more details below \n *Product Impacted* : <Product name with TGID> _________________________ \n *Extent Of Impact* : We have seen _______ number of cases failing in last _________ hours. \n *Failure Reason* : Failure is happening because _____________________________ \n *Diagnosis* : < Include steps taken with results to come to the conclusion > _______________________________ \n @tech - Need help for doing a quick check to confirm the reason for failure. \n @auto @so - Close the product for the next 2 days for a couple of hours till we get an ETA for the fix. Please keep monitoring the issue from your end. \n CC : @<MM, PM> ____________ - Please take note. Request you to shut the campgain for the next couple of hours or till we figure out the time lines. Will follow up again on the same thread as soon as we have further updates on the issue.",
   "attachments": [
-    {
-      "fallback": "Selenium Decision Support System: Check the below image for detailed system",
-      "title": "Selenium DSS",
-      "title_link": "",
-      "text": "Check the below image for detailed system",
-      "color": "#764FA5",
-
-    "images": [
         {
-            "imageID": "Selenium DSS 1",
-            "urls": [
-                "https://i.postimg.cc/rmC8bDmH/Selenium-DSS-1.png",
-                "https://i.postimg.cc/x1jCMy64/Selenium-DSS-2.png"
-            ]
-        }
-    ],
-        
-      "fields": [
+          "text": "Selenium DSS",
+          "image_url": "https://i.postimg.cc/rmC8bDmH/Selenium-DSS-1.png",
+          "unfurl_links": true
+        },
         {
-          "title": "Analysis",
-          "value": "Custom Text",
-          "short": false
+          "text": "Product level details",
+          "image_url": "https://i.postimg.cc/SN2cxQcJ/Selenium-Lookup.png",
+          "unfurl_links": true
         }
       ]
     }
-  ]
-}
+//https://api.myjson.com/bins/wqcm1
+//https://i.postimg.cc/rmC8bDmH/Selenium-DSS-1.png
+//https://i.postimg.cc/x1jCMy64/Selenium-DSS-2.png
+//https://api.myjson.com/bins/ynlo1
+//https://i.postimg.cc/SN2cxQcJ/Selenium-Lookup.png

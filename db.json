@@ -1,6 +1,7 @@
 {
 "posts": [
 {
+    "id": 1,
     "text": "Click the button to create Workflow.",
     "attachments": [
         {

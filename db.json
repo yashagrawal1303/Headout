@@ -21,18 +21,3 @@
 }
 ]
 }
-
-{
-"posts": [
-{
-    "id": 2,
-    "text": "@channel Daily report \n1) Number of tickets missing - \n2) Number of TNET's to be actioned - \n3) Any cash discrepancies - Yes/No (if yes please elaborate) \n4) Number of in-house hosts for tomorrow - \n5) Number of Wonolo hosts for tomorrow -",
-  "attachments": [
-      {
-        "fallback": "Something's wrong here.",
-        "callback_id": ""
-      }
-    ]
-}
-]
-}

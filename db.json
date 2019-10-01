@@ -21,8 +21,22 @@
 },
 {
     "id": 2,
-    "title": "@channel Daily report",
-    "body": "1) Number of tickets missing - \n2) Number of TNET's to be actioned - \n3) Any cash discrepancies - Yes/No (if yes please elaborate) \n4) Number of in-house hosts for tomorrow - \n5) Number of Wonolo hosts for tomorrow -"
+    "text": "@channel Daily report \n 1) Number of tickets missing - \n 2) Number of TNET's to be actioned - \n 3) Any cash discrepancies - Yes/No (if yes please elaborate) \n 4) Number of in-house hosts for tomorrow - \n 5) Number of Wonolo hosts for tomorrow -",
+    "attachments": [
+        {
+            "fallback": "Something's wrong here.",
+            "callback_id": "",
+            "color": "#3AA3E3",
+            "attachment_type": "default",
+            "actions": [
+                {
+                    "text": "Create Workflow",
+                    "type": "button",
+                    "url":"https://docs.google.com/spreadsheets/d/1j8CFuX5hxW6GllIyerc7LjuGaGXWGGjHz8UJiS-4E9U/edit?usp=sharing"
+                }
+            ]
+        }
+    ]
 }
 ]
 }

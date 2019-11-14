@@ -21,7 +21,7 @@
 },
     {
     "id": 2,
-    "text": "@channel Daily report \n 1) Number of tickets missing - \n 2) Number of TNET's to be actioned - \n 3) Any cash discrepancies - Yes/No (if yes please elaborate) \n 4) Number of in-house hosts for tomorrow - \n 5) Number of Wonolo hosts for tomorrow -",
+    "text": "@channel Daily report \n 1) Number of tickets missing - \n 2) Number of TNET's to be actioned - \n 3) Any cash discrepancies - Yes/No (if yes please elaborate) \n 4) Number of in-house hosts for tomorrow (matinee) - \n 5) Number of in-house hosts for tomorrow (evening) -  \n 6) Number of Wonolo hosts for tomorrow (matinee) - \n 7) Number of Wonolo hosts for tomorrow (evening) -",
     "attachments": [
         {
             "fallback": "Something's wrong here.",
